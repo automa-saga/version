@@ -30,7 +30,7 @@ standardises it:
 go get github.com/automa-saga/version
 ```
 
-Requires Go 1.21+.
+Requires Go 1.26+.
 
 ## Stamping the build
 
