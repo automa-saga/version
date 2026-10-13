@@ -1,3 +1,3 @@
 module github.com/automa-saga/version
 
-go 1.26.5
+go 1.26.9
